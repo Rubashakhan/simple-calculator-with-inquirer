@@ -1,6 +1,6 @@
 {
   "name": "rubashakhan-simple-calculator-using-inquirer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple calculator with typescript, node.js and inquirer.",
   "main": "index.js",
   "type": "module",
@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rubasha Khan",
-  "license": "ISC",
+  "license": "MIT",
   "keywords": [],
   "dependencies": {
     "inquirer": "^9.2.19"
